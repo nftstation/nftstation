@@ -1,2 +1,1 @@
-# nftstation
-The Station
+# The Station
